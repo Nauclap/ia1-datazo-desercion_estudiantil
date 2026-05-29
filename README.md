@@ -72,7 +72,7 @@ https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+su
 
 ## Video Resumen del Proyecto
 
-Video de presentación (máximo 5 minutos):
+Video de presentación:
 
 ```text
 https://www.youtube.com/watch?v=RLN_E7rlNsw
